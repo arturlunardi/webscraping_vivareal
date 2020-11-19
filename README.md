@@ -42,3 +42,5 @@ Neste exemplo específico foram selecionados imóveis para locação na cidade d
 # Resultado:
 
 Será criado um arquivo CSV chamado VivaRealData.csv no mesmo diretório do arquivo contendo todas as informações.
+
+![vivarealdata](https://user-images.githubusercontent.com/72626638/99709393-e1a68f80-2a7d-11eb-96c9-1efd168a647b.png)
