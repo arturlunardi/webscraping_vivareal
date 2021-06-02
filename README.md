@@ -1,6 +1,7 @@
 # Web Scraping VivaReal
 
 Nesse repositório iremos extrair informações do site [VivaReal](https://www.vivareal.com.br/)
+
 Esse projeto é de caráter totalmente educacional.
 
 **Este scraper funciona em 19/11/2020**
